@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=-48V Pin=C2-2
+Removed Pin From Net: NetName=-48V Pin=C3-2
+Removed Member From Class: ClassName=FanControllerSch Member=C2
+Removed Member From Class: ClassName=FanControllerSch Member=C3
+Added Pin To Net: NetName=NetPS1_1 Pin=PS1-1
+Added Pin To Net: NetName=NetPS1_1 Pin=Q1-3
+Added Net: Name=NetPS1_1
+Added Member To Class: ClassName=FanControllerSch Member=Component P2 Header 6
+Added Member To Class: ClassName=FanControllerSch Member=Component R6 Res_Com

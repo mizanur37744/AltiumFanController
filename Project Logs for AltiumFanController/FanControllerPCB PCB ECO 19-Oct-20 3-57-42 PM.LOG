@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=C5 Old Footprint=Radial 12.5 x 25 New Footprint=RADIAL 3.5x7.7
+Change Component Footprint: Designator=C7 Old Footprint=Radial 12.5 x 25 New Footprint=RADIAL 3.5x7.7
+Added Member To Class: ClassName=FanControllerSch Member=Component P2 Header 6
+Added Member To Class: ClassName=FanControllerSch Member=Component R6 Res_Com

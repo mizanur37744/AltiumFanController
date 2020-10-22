@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=D4 Old Footprint=DIOAD3020W130L900D530 New Footprint=ONSC-AXIAL_LEAD-2-59-10_P
+Change Component Footprint: Designator=D5 Old Footprint=DIOAD3020W130L900D530 New Footprint=ONSC-AXIAL_LEAD-2-59-10_P
+Change Component Footprint: Designator=D1 Old Footprint=DO-204AC New Footprint=ONSC-AXIAL_LEAD-2-59-10_P
+Change Component Footprint: Designator=D2 Old Footprint=DO-204AC New Footprint=ONSC-AXIAL_LEAD-2-59-10_P
+Change Component Footprint: Designator=D3 Old Footprint=DO-204AC New Footprint=ONSC-AXIAL_LEAD-2-59-10_P
+Added Member To Class: ClassName=FanControllerSch Member=Component P1 Header 3
+Added Member To Class: ClassName=FanControllerSch Member=Component P2 Header 6
+Added Member To Class: ClassName=FanControllerSch Member=Component Q3 2N3904
+Added Member To Class: ClassName=FanControllerSch Member=Component R6 Res_Com
+Added Member To Class: ClassName=FanControllerSch Member=Component R7 Res_Com
+Added Member To Class: ClassName=FanControllerSch Member=Component U1 LCD2X16

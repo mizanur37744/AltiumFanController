@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=NetC7_1 Pin=IC1-5
+Removed Pin From Net: NetName=PWM Pin=IC1-7
+Removed Pin From Net: NetName=RS Pin=U2-27
+Removed Pin From Net: NetName=E Pin=U2-28
+Change component parameters: Designator = "C1"; Footprint = "Radial 12.5 x 25"; UniqueID = "\GZWKNHZV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Contact"; Value = "cynetik_group@hotmail.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created by"; Value = "Zion Blue"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "28 April 2014"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Cynetik Group"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100 µF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4"; Footprint = "RADIAL 3.5x7.7"; UniqueID = "\SLXAJWBN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Contact"; Value = "cynetik_group@hotmail.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created by"; Value = "Zion Blue"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "28 April 2014"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Cynetik Group"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100 µF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5"; Footprint = "RADIAL 3.5x7.7"; UniqueID = "\ZAVMDBAK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Contact"; Value = "cynetik_group@hotmail.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created by"; Value = "Zion Blue"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "28 April 2014"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Cynetik Group"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100 µF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7"; Footprint = "RADIAL 3.5x7.7"; UniqueID = "\XVAHLXDA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Contact"; Value = "cynetik_group@hotmail.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created by"; Value = "Zion Blue"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "28 April 2014"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Cynetik Group"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100 µF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PWM Pin=IC1-1
+Added Pin To Net: NetName=NetC7_1 Pin=IC1-3
+Added Pin To Net: NetName=E Pin=U2-27
+Added Pin To Net: NetName=RS Pin=U2-28
+Added Pin To Net: NetName=NetIC1_2 Pin=IC1-2
+Added Pin To Net: NetName=NetIC1_2 Pin=R10-2
+Added Pin To Net: NetName=NetIC1_2 Pin=R12-1
+Added Net: Name=NetIC1_2
+Change Class Name : Old Net Name=FanControllerSch New Net Name=FanControllerSch_Rev2
+Added Member To Class: ClassName=FanControllerSch_Rev2 Member=Component Q2 LM7805CT/NOPB
+Added Member To Class: ClassName=FanControllerSch_Rev2 Member=Component R1 Res_Com
+Added Member To Class: ClassName=FanControllerSch_Rev2 Member=Component S1 1825967-1

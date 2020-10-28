@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetC7_1 Pin=IC1-5
+Removed Pin From Net: NetName=PWM Pin=IC1-7
+Added Pin To Net: NetName=PWM Pin=IC1-1
+Added Pin To Net: NetName=NetC7_1 Pin=IC1-3
+Added Pin To Net: NetName=NetIC1_2 Pin=IC1-2
+Added Pin To Net: NetName=NetIC1_2 Pin=R10-2
+Added Pin To Net: NetName=NetIC1_2 Pin=R12-1
+Added Net: Name=NetIC1_2
+Added Member To Class: ClassName=FanControllerSch_Rev2 Member=Component U2 ATmega8A-PU

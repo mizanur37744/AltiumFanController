@@ -1,0 +1,43 @@
+Change component parameters: Designator = "C1"; Footprint = "Radial 12.5 x 25"; UniqueID = "\GZWKNHZV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Contact"; Value = "cynetik_group@hotmail.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created by"; Value = "Zion Blue"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "28 April 2014"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Cynetik Group"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100 µF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4"; Footprint = "RADIAL 3.5x7.7"; UniqueID = "\SLXAJWBN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Contact"; Value = "cynetik_group@hotmail.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created by"; Value = "Zion Blue"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "28 April 2014"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Cynetik Group"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100 µF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5"; Footprint = "RADIAL 3.5x7.7"; UniqueID = "\ZAVMDBAK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Contact"; Value = "cynetik_group@hotmail.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created by"; Value = "Zion Blue"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "28 April 2014"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Cynetik Group"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100 µF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7"; Footprint = "RADIAL 3.5x7.7"; UniqueID = "\XVAHLXDA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Contact"; Value = "cynetik_group@hotmail.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created by"; Value = "Zion Blue"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "28 April 2014"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Cynetik Group"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100 µF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Analog Pin=U2-23
+Added Pin To Net: NetName=LCD4 Pin=U2-2
+Added Net: Name=LCD4
+Added Pin To Net: NetName=LCD5 Pin=U2-26
+Added Net: Name=LCD5
+Added Pin To Net: NetName=LCD6 Pin=U2-25
+Added Net: Name=LCD6
+Added Pin To Net: NetName=LCD7 Pin=U2-24
+Added Net: Name=LCD7
+Added Pin To Net: NetName=NetLabel62 Pin=U1-14
+Added Net: Name=NetLabel62
+Added Pin To Net: NetName=NetLabel64 Pin=U1-12
+Added Net: Name=NetLabel64
+Added Pin To Net: NetName=NetLabel65 Pin=U1-11
+Added Net: Name=NetLabel65

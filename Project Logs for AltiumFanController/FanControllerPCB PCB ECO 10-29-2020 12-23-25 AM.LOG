@@ -1,0 +1,63 @@
+Removed Pin From Net: NetName=+48V Pin=P3-1
+Removed Pin From Net: NetName=-48V Pin=P3-2
+Removed Pin From Net: NetName=+48V Pin=P3-3
+Removed Pin From Net: NetName=NetD5_2 Pin=P3-4
+Removed Pin From Net: NetName=T Pin=P3-5
+Removed Pin From Net: NetName=PWM Pin=P3-6
+Removed Pin From Net: NetName=RS Pin=U2-27
+Removed Pin From Net: NetName=E Pin=U2-28
+Removed Member From Class: ClassName=FanControllerSch Member=P3
+Change component parameters: Designator = "C1"; Footprint = "Radial 12.5 x 25"; UniqueID = "\GZWKNHZV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Contact"; Value = "cynetik_group@hotmail.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created by"; Value = "Zion Blue"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "28 April 2014"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Cynetik Group"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100 µF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4"; Footprint = "RADIAL 3.5x7.7"; UniqueID = "\SLXAJWBN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Contact"; Value = "cynetik_group@hotmail.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created by"; Value = "Zion Blue"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "28 April 2014"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Cynetik Group"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100 µF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5"; Footprint = "RADIAL 3.5x7.7"; UniqueID = "\ZAVMDBAK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Contact"; Value = "cynetik_group@hotmail.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created by"; Value = "Zion Blue"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "28 April 2014"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Cynetik Group"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100 µF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7"; Footprint = "RADIAL 3.5x7.7"; UniqueID = "\XVAHLXDA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Contact"; Value = "cynetik_group@hotmail.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created by"; Value = "Zion Blue"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "28 April 2014"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Cynetik Group"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100 µF"; VariantName = "[No Variations]"
+Added Component: Designator=J1(TE_1-282837-0)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=520357"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant with Exemptions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1-282837-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1-282837-0/TE%20Connectivity%20AMP%20Connectors/view-part/520357/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+48V Pin=J1-1
+Added Pin To Net: NetName=-48V Pin=J1-2
+Added Pin To Net: NetName=+48V Pin=J1-3
+Added Pin To Net: NetName=NetD5_2 Pin=J1-4
+Added Pin To Net: NetName=T Pin=J1-5
+Added Pin To Net: NetName=PWM Pin=J1-6
+Added Pin To Net: NetName=-48V Pin=J1-7
+Added Pin To Net: NetName=Analog Pin=J1-8
+Added Pin To Net: NetName=+5V Pin=J1-9
+Added Pin To Net: NetName=E Pin=U2-27
+Added Pin To Net: NetName=RS Pin=U2-28
+Added Member To Class: ClassName=FanControllerSch Member=Component J1 1-282837-0
+Added Member To Class: ClassName=FanControllerSch Member=Component Q2 LM7805CT/NOPB
+Added Member To Class: ClassName=FanControllerSch Member=Component R1 Res_Com
+Added Member To Class: ClassName=FanControllerSch Member=Component S1 1825967-1

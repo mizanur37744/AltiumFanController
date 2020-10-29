@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=+5V Pin=P1-1
+Removed Pin From Net: NetName=Analog Pin=P1-2
+Removed Pin From Net: NetName=-48V Pin=P1-3
+Removed Member From Class: ClassName=FanControllerSch Member=P1
